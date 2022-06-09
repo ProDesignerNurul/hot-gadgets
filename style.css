@@ -1,0 +1,34 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navbar-brand img{
+    width: 100px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.mackbook-pro h1{
+    font-size: 80px;
+    margin-top: 80px;
+}
+.mackbook-pro p{
+    color: gray;
+}
+.button{
+    background-color:blue ;
+    color: white;
+    padding: 5px 20px;
+    font-weight: 700;
+    border-radius: 20px;
+}
+.card {
+    border: none;
+    box-shadow: 1px 1px 10px darkgray;
+}
+.see-all a{
+    text-decoration: none;
+    color: orange ;
+}
+.card-text{
+    color: gray;
+}
